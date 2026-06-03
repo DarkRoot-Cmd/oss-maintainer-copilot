@@ -1,0 +1,17 @@
+[
+  {
+    "number": 1,
+    "title": "Crash when issue body is empty",
+    "body": "The triage command throws an exception when body is null."
+  },
+  {
+    "number": 2,
+    "title": "Add examples for GitHub Action usage",
+    "body": "Docs would help new contributors configure the workflow."
+  },
+  {
+    "number": 3,
+    "title": "Potential secret leak in logs",
+    "body": "Security review requested for debug output."
+  }
+]
