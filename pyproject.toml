@@ -20,8 +20,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_GITHUB_USERNAME/oss-maintainer-copilot"
-Issues = "https://github.com/YOUR_GITHUB_USERNAME/oss-maintainer-copilot/issues"
+Homepage = "https://github.com/DarkRoot-Cmd/oss-maintainer-copilot"
+Issues = "https://github.com/DarkRoot-Cmd/oss-maintainer-copilot/issues"
 
 [project.scripts]
 oss-maintainer-copilot = "oss_maintainer_copilot.cli:main"
